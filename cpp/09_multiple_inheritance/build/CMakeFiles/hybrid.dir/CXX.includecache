@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/gas.cpp
+gas.hpp
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/gas.hpp
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/gas.hpp
+iostream
+-
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hybrid.cpp
+hybrid.hpp
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hybrid.hpp
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hybrid.hpp
+iostream
+-
+string
+-
+gas.hpp
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/gas.hpp
+hydrogen.hpp
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hydrogen.hpp
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hydrogen.cpp
+hydrogen.hpp
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hydrogen.hpp
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hydrogen.hpp
+iostream
+-
+
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/main.cpp
+iostream
+-
+hybrid.hpp
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/05_Multiple_inheritance/hybrid.hpp
+

@@ -1,0 +1,3 @@
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/04_Inheritance/build/CMakeFiles/rebuild_cache.dir
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/04_Inheritance/build/CMakeFiles/edit_cache.dir
+/home/iztatik/Documents/Teaching/Advanced_programming/Topics/2_Objects/Codes/04_Inheritance/build/CMakeFiles/phone.dir

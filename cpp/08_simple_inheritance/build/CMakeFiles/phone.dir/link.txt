@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/phone.dir/main.o CMakeFiles/phone.dir/device.o CMakeFiles/phone.dir/computer.o CMakeFiles/phone.dir/phone.o  -o phone 
