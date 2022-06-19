@@ -1,0 +1,13 @@
+1. Basic Python index:
+	- text_formating
+	- print
+	- string_methods
+	- data_structures
+	- flow_structures
+	- functions
+	- objects
+  	- files
+    	- exception_handling
+    	- docstrings_doctests
+	
+

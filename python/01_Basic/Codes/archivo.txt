@@ -1,0 +1,9 @@
+Esto es un archivo de texto
+Se agregarán las siguientes lineas: 
+
+Esta linea se ha agregado
+Esta linea se ha agregado
+
+Esta linea se ha agregado
+Esta linea se ha agregado
+Esta linea se ha agregado
